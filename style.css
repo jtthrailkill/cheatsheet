@@ -1,0 +1,32 @@
+* {
+    margin-left: 0;
+    margin-right: 0;
+   
+}
+
+h1 {
+    Font-weight: bold;
+    color: #000000;
+    text-align: left;
+    margin: 100px 0px;
+    
+}
+
+table {
+    display: table;
+    box-sizing: border-box;
+    border: 1px solid;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+.code {
+    font-family: monospace;
+    background-color: black;
+    color: white;
+    text-align: left;
+}
